@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Food_Order</string>
+    <string name="kitchen_app">Kitchen App</string>
+    <string name="dalroti">DalRoti</string>
+    <string name="paneer">Paneer</string>
+</resources>
